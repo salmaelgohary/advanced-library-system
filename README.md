@@ -1,6 +1,6 @@
 # Advanced Library Management System
 
-This project is a C++-based Library System designed to manage books, users, and their interactions through a simple yet effective interface. Thia project showcases object-oriented programming concepts like inheritance and encapsulation, and serves as a strong foundation for expanding into a more feature-rich library management tool.
+This project is a C++ based Library System designed to manage books, users, and their interactions through a simple yet effective interface. This project showcases object-oriented programming concepts like inheritance and encapsulation, and serves as a strong foundation for expanding into a more feature-rich library management tool.
 
 ---
 
