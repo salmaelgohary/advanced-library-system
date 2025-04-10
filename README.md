@@ -1,10 +1,10 @@
-# 📚 Library System
+# Advanced Library Management System
 
 This project is a C++-based Library System designed to manage books, users, and their interactions through a simple yet effective interface. Thia project showcases object-oriented programming concepts like inheritance and encapsulation, and serves as a strong foundation for expanding into a more feature-rich library management tool.
 
 ---
 
-## 🔧 Features & Structure
+## Features & Structure
 
 ### `Book` Class  
 Represents individual books in the library, storing details such as:
@@ -42,7 +42,7 @@ Acts as the entry point and user interface for the program. Enables interaction 
 ### 1. Compile the Code
 Using `g++` or any modern C++ compiler:
 ```bash
-g++ -std=c++11 main.cpp book.cpp lib.cpp libUser.cpp -o library-system
+g++ -std=c++11 main.cpp book.cpp library.cpp libraryuser.cpp student.cpp teacher.cpp -o library-system
 ```
 
 ### 2. Run the Executable
